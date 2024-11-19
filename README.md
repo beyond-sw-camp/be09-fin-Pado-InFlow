@@ -118,7 +118,7 @@
 [![요구사항 정의서 보기](https://img.shields.io/badge/📄_요구사항_정의서-문서_열기-2E8B57?style=for-the-badge&logo=adobeacrobatreader&labelColor=darkgreen&labelWidth=20)](https://github.com/Be09-Fin-Pado/.github/blob/main/profile/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%82%B0%EC%B6%9C%EB%AC%BC/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B8%B0%ED%9A%8D/%EC%9A%94%EA%B5%AC%EC%82%AC%EC%9E%A5%20%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 
 ### 📌 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/b52e3f9d-3987-4dbc-a944-4db45e64fc56)
+![image](https://github.com/user-attachments/assets/17cf1672-6362-4fce-bb40-b5367f36dfe8)
 
 
 
